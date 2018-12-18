@@ -1,0 +1,29 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{4B97E5BE-EA75-F720-8418-DDA142014324}") = "FGUIExample", "Assembly-CSharp.csproj", "{4DD938EB-AC2A-2C47-FED0-9128F6FF9CCF}"
+EndProject
+Project("{4B97E5BE-EA75-F720-8418-DDA142014324}") = "FGUIExample", "Assembly-CSharp-Editor.csproj", "{34AC66EA-8288-C49B-5272-27CAF196FEDF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4DD938EB-AC2A-2C47-FED0-9128F6FF9CCF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4DD938EB-AC2A-2C47-FED0-9128F6FF9CCF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4DD938EB-AC2A-2C47-FED0-9128F6FF9CCF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4DD938EB-AC2A-2C47-FED0-9128F6FF9CCF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{34AC66EA-8288-C49B-5272-27CAF196FEDF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{34AC66EA-8288-C49B-5272-27CAF196FEDF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{34AC66EA-8288-C49B-5272-27CAF196FEDF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{34AC66EA-8288-C49B-5272-27CAF196FEDF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
